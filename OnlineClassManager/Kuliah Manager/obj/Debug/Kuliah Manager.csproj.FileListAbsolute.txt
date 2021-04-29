@@ -1,0 +1,10 @@
+C:\Users\Raisa Salsabila\Source\Repos\OnlineClassManager\Kuliah Manager\bin\Debug\Kuliah Manager.exe.config
+C:\Users\Raisa Salsabila\Source\Repos\OnlineClassManager\Kuliah Manager\bin\Debug\Kuliah Manager.exe
+C:\Users\Raisa Salsabila\Source\Repos\OnlineClassManager\Kuliah Manager\bin\Debug\Kuliah Manager.pdb
+C:\Users\Raisa Salsabila\Source\Repos\OnlineClassManager\Kuliah Manager\obj\Debug\Kuliah Manager.csprojAssemblyReference.cache
+C:\Users\Raisa Salsabila\Source\Repos\OnlineClassManager\Kuliah Manager\obj\Debug\Kuliah_Manager.Form1.resources
+C:\Users\Raisa Salsabila\Source\Repos\OnlineClassManager\Kuliah Manager\obj\Debug\Kuliah_Manager.Properties.Resources.resources
+C:\Users\Raisa Salsabila\Source\Repos\OnlineClassManager\Kuliah Manager\obj\Debug\Kuliah Manager.csproj.GenerateResource.cache
+C:\Users\Raisa Salsabila\Source\Repos\OnlineClassManager\Kuliah Manager\obj\Debug\Kuliah Manager.csproj.CoreCompileInputs.cache
+C:\Users\Raisa Salsabila\Source\Repos\OnlineClassManager\Kuliah Manager\obj\Debug\Kuliah Manager.exe
+C:\Users\Raisa Salsabila\Source\Repos\OnlineClassManager\Kuliah Manager\obj\Debug\Kuliah Manager.pdb
