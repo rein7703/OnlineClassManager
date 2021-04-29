@@ -47,6 +47,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class.cs" />
+    <Compile Include="TaskReminder.cs" />
+    <Compile Include="ClassReminder.cs" />
+    <Compile Include="Reminder.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
